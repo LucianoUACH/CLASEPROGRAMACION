@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\PROGRAMACION\\CSHARP\\Mayoredad\\Mayoredad.csproj": {}
+    "C:\\Users\\Usuario\\PROGRAMACION\\CSHARP\\mayoredad\\mayoredad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\PROGRAMACION\\CSHARP\\Mayoredad\\Mayoredad.csproj": {
+    "C:\\Users\\Usuario\\PROGRAMACION\\CSHARP\\mayoredad\\mayoredad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\PROGRAMACION\\CSHARP\\Mayoredad\\Mayoredad.csproj",
-        "projectName": "Mayoredad",
-        "projectPath": "C:\\Users\\Usuario\\PROGRAMACION\\CSHARP\\Mayoredad\\Mayoredad.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\PROGRAMACION\\CSHARP\\mayoredad\\mayoredad.csproj",
+        "projectName": "mayoredad",
+        "projectPath": "C:\\Users\\Usuario\\PROGRAMACION\\CSHARP\\mayoredad\\mayoredad.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\PROGRAMACION\\CSHARP\\Mayoredad\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\PROGRAMACION\\CSHARP\\mayoredad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
